@@ -1,0 +1,4 @@
+3
+B koko 30
+F Nem 40
+D roki 50
